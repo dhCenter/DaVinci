@@ -7,6 +7,10 @@ Based on previous experience in organizing a data visualization challenge in the
 * Inception: 
   * Initializing Data Visualization Challenge
   * Constituting the executive committee
+    * Defining committee size and reach
+    * Writing invitations to join the executive committee
+	* Identifying chanels for executive committee invitation
+	* Sending invitations 
   * Constituting the scientific committee
   * Attributing roles
   * Planning workload
