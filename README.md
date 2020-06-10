@@ -9,3 +9,12 @@ DaVinci takes a step in that direction and provides an open digital infrastructu
 ## Keywords
 
 Data visualization, digital pipeline, dataviz, challenge, open source, data infrastructure, scalability, schools, teaching, learning, data literacy, digital support, digital scholarship.
+
+## Working phases
+
+| Phase number | Phase name    | Duration | Min. period |
+|:-----------------:|:----------------:|:-----------:|:--------------|
+| 1                      | Conception    | 8 days     | 1 month       |
+| 2                      | Development | 10 days   | 2 months     |
+| 3                      | Testing           | 5 days     | 2 months     |
+| 4                      | Deployment   | 10 days   | 2 months     |
